@@ -5,16 +5,16 @@ layout: default
 # Python Security Projects
 #### Using Python to illustrate cybersecurity goals!
 
-*   [Firewalls](./pythonfirewall.md)
-*   [Scanners](./pythonscanner.md)
+*   [Firewalls](./Projects/Python/pythonfirewall.md)
+*   [Scanners](./Projects/Python/pythonscanner.md)
 
 
 # Cyber Demos
 #### Using practical scenarios to apply cybersecurity practices!
 
-*   [IT Auditing Demo](./audit.md)
-*   [Autopsy Digital Forensics Demo](./forensics.md)
-*   [Nmap Network Enumeration Demo](./nmap.md)
+*   [IT Auditing Demo](./Projects/Demos/audit.md)
+*   [Autopsy Digital Forensics Demo](./Projects/Demos/forensics.md)
+*   [Nmap Network Enumeration Demo](./Projects/Demos/nmap.md)
 
 
 # Security Applications
