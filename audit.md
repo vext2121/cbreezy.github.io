@@ -1,2 +1,2 @@
-# Performing an External IT Audit on a Practical Scenario
+# Performing an External IT Audit in a Practical Scenario
 
