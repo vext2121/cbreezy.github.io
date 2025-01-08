@@ -1,2 +1,4 @@
 # cbreezy.github.io
-Check out the list of projects I've posted so far [here](./index.md)!
+A compilation of simple to not-so-simple IT cybersecurity projects. Ranging from policy to secure infrastructure, there is something for anybody to learn from!
+
+Check out the list of projects so far [here](./index.md)!
