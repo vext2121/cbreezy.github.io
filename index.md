@@ -20,5 +20,5 @@ layout: default
 # Security Applications
 #### Creating cybersecurity solutions for real networks like your own!
 
-*   [Microsoft Sentinel At-Home Through VMWare](./sentinal.md)
-*   [Plugging in MISP to Microsoft Sentinal through VMWare](./sentinalMISP.md)
+*   [Microsoft Sentinel At-Home Through VMWare](./Projects/Work_Applications/sentinel.md)
+*   [Plugging in MISP to Microsoft Sentinel through VMWare](./Projects/Work_Applications/sentinelMISP.md)
