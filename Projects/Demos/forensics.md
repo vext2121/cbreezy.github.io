@@ -6,7 +6,7 @@
 
   In the figure below we can see 5 steps on the left-hand menu. The settings in step 1 “Select Host” remain default as we move on to configuring the forensic data source in step 2 “Select Data Source Type.” 
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy9.png" alt="Select Data Source Type" />
-> While Autopsy allows us to analyze a digital forensic image, it does not create the image itself. This is done by imaging software such as [FTK Imager](% post_url https://www.exterro.com/digital-forensics-software/ftk-imager %) or [EnCase](% post_url https://www.opentext.com/products/forensic %) forensic software. In this scenario, we already have our forensic image and select “Disk Image or VM File” as our data source type.
+> While Autopsy allows us to analyze a digital forensic image, it does not create the image itself. This is done by imaging software such as [FTK Imager]({% post_url https://www.exterro.com/digital-forensics-software/ftk-imager %}) or [EnCase]({% post_url https://www.opentext.com/products/forensic %}) forensic software. In this scenario, we already have our forensic image and select “Disk Image or VM File” as our data source type.
 Step 3 “Select Data Source” requires us to input the file path for the forensic image, as shown below. 
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy2.png" alt="Select Data Source" />
 We leave step 4 “Configure Ingest” on default settings, and step 5 “Add Data Source” simply notifying us that the forensic image was successfully uploaded to Autopsy.
