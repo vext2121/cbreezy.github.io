@@ -20,11 +20,11 @@ The Autopsy forensic software provides intuitive access to detailed metadata--da
 > 
 > Below that, there is a tab called “Data Artifacts” showing file ownership,
 > file modification dates, and more depending on the file type. Using these
-> software tools we can find unusual metada and confirm their relevance to the > case.
+> software tools we can find unusual metada and confirm their relevance to the case.
 > 
 > Another tab called “Application”, located just under the central window,
 > shows how a given file would appear to an end user in its appropriate
->  application—think of viewing a Word document in Microsoft Word. We see an
+> application—-think of viewing a Word document in Microsoft Word. We see an
 > example of this in the image below where a document is displayed how it would > appear in it’s appropriate software interface. 
 
 After analyzing the evidence collected from John Smith’s computer image, numerous instances of malicous action were uncovered. For instance, within the deleted files section of the Autopsy report a number of documents and images were deleted within a short time frame; as we can see below.
