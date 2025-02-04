@@ -43,5 +43,5 @@ We leave step 4 “Configure Ingest” on default settings, and step 5 “Add Da
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy5.png" alt="5" />
 > This shows the directory tree where our FindJohn evidence files will go.
 
-#### Configuring Autopsy with Our Forensic Data
+#### Finished!
   And there we go! A start to finish guide on how to configure the Autopsy forensic analysis software. While were already provided a forensic image for this investigation, we still configured the software to ingest our data, created a directory for our evidence, and compiled evidence of malicious activity into our investigation directory. We can carry this conceptual knowledge over to other forensic software such as FTK Imager or EnCase to perform investigations and even learn to create our own forensic images as well. Hope this helped, now go make the internet safer!
