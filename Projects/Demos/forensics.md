@@ -34,7 +34,7 @@ As well,  we can see a file titled “Business_Strategy.pdf” was shown to have
 
 Furthermore, the metada for this file shows the owner to be a user named Mike Morris, who is clearly not our friend John Smith.
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy8.png" alt="8" />
-As you explore forensic images such as this, you will identify abnormal activity and export them to your investigation folder as shown below. 
+As you explore forensic data you will identify abnormal activity such as this and export them to your investigation folder as shown below. 
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy4.png" alt="4" />
 
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy5.png" alt="5" />
