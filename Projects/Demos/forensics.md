@@ -1,8 +1,8 @@
 # Putting Together a Digital Forensic Investigation Using Autopsy Imaging Software
 
-<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="1" />
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="69" />
 
-![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Assets/Images/Autopsy/Autopsy1.png)
+![69](https://github.com/vext2121/cbreezy.github.io/blob/main/Assets/Images/Autopsy/Autopsy1.png)
 
 ![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy9.png)
 
