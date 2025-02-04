@@ -1,21 +1,19 @@
 # Putting Together a Digital Forensic Investigation Using Autopsy Imaging Software
 
-<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="69" />
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="1" />
 
-![69](https://github.com/vext2121/cbreezy.github.io/blob/main/Assets/Images/Autopsy/Autopsy1.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy9.png" alt="9" />
 
-![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy9.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy2.png" alt="2" />
 
-![2](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy2.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy3.png" alt="3" />
 
-![3](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy3.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy6.png" alt="6" />
 
-![6](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy6.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy7.png" alt="7" />
 
-![7](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy7.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy8.png" alt="8" />
 
-![8](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy8.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy4.png" alt="4" />
 
-![4](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy4.png)
-
-![5](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy5.png)
+<img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy5.png" alt="5" />
