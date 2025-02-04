@@ -2,7 +2,7 @@
 
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="1" />
 
-![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy1.png)
+![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Assets/Images/Autopsy/Autopsy1.png)
 
 ![1](https://github.com/vext2121/cbreezy.github.io/blob/main/Images/Autopsy/Autopsy9.png)
 
