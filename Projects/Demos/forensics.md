@@ -1,12 +1,12 @@
 # Putting Together a Digital Forensic Investigation Using Autopsy Forensic Software
 
-  In this project, we will be using the _Autopsy_ forensic analysis software
+  In this project, we will be using the _Autopsy_ forensic analysis software to compile a case against a company's suspected insider threat, an employee named John Smith. Let's get this investigation going!
   
 ## Configuring Autopsy with Our Forensic Data
 
   To begin analyzing the forensic data collected against the suspect John Smith we must open and configure the _Autopsy_ software with our forensic image (essentially a snapshot of the Operating system while John Smith was using it.) 
 
-  First, run the _Autopsy_ software and initiate a new case file configuration by clicking “New Case” on the welcome screen and reaching the New Case Identification Screen as shown below. The “Case Name”  section will be the name of the directory housing all of your case data for the investigation. For this example, the case name will be“FindJohn”. “FindJohn” will be stored in a base directory we choose here in the “Base Directory” section-—we can see the example directory path below. A case number is optional depending on our use case.
+  First, run the _Autopsy_ software and initiate a new case file configuration by clicking “New Case” on the welcome screen and reaching the "New Case Identification" screen as shown below. The “Case Name” section will be the name of the directory housing all of your case data for the investigation. For this example, the case name will be“FindJohn”. “FindJohn” will be stored in a base directory we choose here in the “Base Directory” section-—we can see the example directory path below. A case number is optional depending on our use case.
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy1.png" alt="New Case" />
 
   In the figure below we can see 5 steps on the left-hand menu. The settings in step 1 “Select Host” remain default as we move on to configuring the forensic data source in step 2 “Select Data Source Type.” 
@@ -43,7 +43,7 @@ We leave step 4 “Configure Ingest” on default settings, and step 5 “Add Da
   After analyzing the evidence collected from John Smith’s computer image, numerous instances of malicous action can be uncovered. For instance, within the deleted files section of the _Autopsy_ report a number of documents and images were deleted within a short time frame; as we can see below.
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy10.png" alt="Hidden Files" />
   
-  As well,  we can see a file titled “Business_Strategy.pdf” was shown to have the term “Confidential” highlighted in red. This file is residing on John Smith's computer while he has yet to prove clearance for confidential clearance.
+  As well, we can see a file titled “Business_Strategy.pdf” was shown to have the term “Confidential” highlighted in red. This file is residing on John Smith's computer while he has yet to prove clearance for confidential clearance.
 <img src="{{site.baseurl | prepend: site.url}}Assets/Images/Autopsy/Autopsy6.png" alt="User Interface Example" />
   
   Furthermore, the metadata for this file shows the owner to be a user named Mike Morris, who is clearly not our friend John Smith.
