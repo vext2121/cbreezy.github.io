@@ -4,21 +4,21 @@ Here we are going to dive into the two of the most popular network analysis tool
 
 ## But wait, what's a Wireshark? Or an Nmap?
 
-I'm glad you asked...Nmap is a network enumeration tool--meaning it locates and identifies devices on a network. Yet, it's uses are FAR broader than that definition. Cybersecurity red teams are able to use Nmap for identifying attack surfaces before attacking. Blue teams are able to audit their own networks for vulnerabilities and non-compliance. Even bug bounty hackers, who ethically hack for profit, use Nmap to find weaknesses in a target network. It's truly a swiss-army knife in cybersecurity.
+I'm glad you asked...Nmap is a network enumeration tool--meaning it locates and identifies devices on a network. Yet, its uses are FAR broader than that definition. Cybersecurity red teams are able to use Nmap for identifying attack surfaces before attacking. Blue teams can audit their networks for vulnerabilities and non-compliance. Even bug bounty hackers, who ethically hack for profit, use Nmap to find weaknesses in a target network. It's truly a Swiss-army knife in cybersecurity.
 
-If Nmap is the swiss-army knife, Wireshark is the drone in the sky witnessing everything from above. It is a packet sniffer that collects and records all packets that traverse the network within its scope of "visibility". This could be one device, a subnet, or the entire network domain. Red teams can use this for target reconnaissance, while Blue teams can use it to perform investigations of past incidents or ongoing ones. 
+If Nmap is the Swiss-army knife, Wireshark is the drone in the sky witnessing everything from above. It is a network protocol analyzer or "packet sniffer". It collects and records all packets that traverse the network within its scope of "visibility". This could be one device, a subnet, or an entire network domain. Red teams can use this for target reconnaissance, while Blue teams can use it to investigate past or ongoing incidents. 
 
 Let's see these tools in action!
   
 ## Scenario
 
-Our target network has recently been constructed and deployed for internet and intranet connectivity. In order to ensure it's safe to use, we have been assigned to assess its security posture. We will do a simple network vulnerability assessment using Nmap and Wireshark to explore the basics of ethical network snooping. 
+Our target network has recently been constructed and deployed for internet and intranet connectivity. To ensure it's safe to use, we have been assigned to assess its security posture. We will do a simple network vulnerability assessment using Nmap and Wireshark to explore the basics of ethical network snooping. 
 
-> Since we are completely authorized to acccess the following network, this will be considered a
+> Since we are completely authorized to access the following network, this will be considered a
 > white-hat vulnerability assessment.
-> - White-hat meaning fully authorized
-> - Grey-hat meaning unauthorized but ethical
-> - Black-hat meaning unauthorized and malicious
+> - White hat meaning fully authorized
+> - Grey hat meaning unauthorized but ethical
+> - Black hat meaning unauthorized and malicious
 
 ## Nmap Scan
 
